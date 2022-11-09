@@ -1,0 +1,10 @@
+{
+  "name": "FlareBotGuilded",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "GPLV3",
+  "type": "module",
+  "dependencies": {
+    "guilded.js": "^0.13.21"
+  }
+}
